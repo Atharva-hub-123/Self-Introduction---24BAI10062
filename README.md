@@ -12,7 +12,6 @@ This video introduces my technical background, projects, and career goals.
 
 <video width="600" controls>
   <source src="Self Introduction (24BAI10062).mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
 👉 [Watch My Introduction Video](Self Introduction (24BAI10062).mp4)
