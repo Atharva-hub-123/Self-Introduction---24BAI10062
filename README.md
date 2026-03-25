@@ -77,8 +77,8 @@ This video introduces my technical background, projects, and career goals.
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: YOUR_LINKEDIN_LINK
-* 📧 Email: YOUR_EMAIL
+* 💼 LinkedIn: https://www.linkedin.com/in/atharva-pathak-10bbb0333/
+* 📧 Email: atharvappathak22@gmail.com
 
 ---
 
