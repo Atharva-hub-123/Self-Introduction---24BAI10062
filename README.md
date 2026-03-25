@@ -14,9 +14,7 @@ This video introduces my technical background, projects, and career goals.
   <source src="Self Introduction (24BAI10062).mp4" type="video/mp4">
 </video>
 
-👉 [Watch My Introduction Video](Self Introduction (24BAI10062).mp4)
-
-> 💡 This video highlights my skills, projects, and career goals in AI & ML.
+👉 [🎥 Watch / Download My Introduction Video](./Self%20Introduction%20(24BAI10062).mp4)
 
 ---
 
